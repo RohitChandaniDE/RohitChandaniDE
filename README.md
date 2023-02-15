@@ -1,6 +1,6 @@
 ![rohit](/rohit%20banner1.png)
 
-I'm a **Frontend Javascript Developer** from India. I´m  passionate for programming and curious about learning new **technologies**.
+I'm **Frontend Javascript Web Developer** from India. I´m  passionate for programming and curious about learning new **technologies**.
 
 Always looking for a **challenging new task** with the opportunity to work with the latest technologies on challenging and diverse projects. 
 
